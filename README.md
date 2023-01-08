@@ -1,7 +1,4 @@
-
-# Project Title
-
-SENTIMENT-ANALYSIS-OF-GAME-REVIEWS-AND-HYPER-PARAMETER-TUNING-OF-THE-MODEL-USING-HHO
+# Sentiment Analysis of Game Reviews and Hyper Prameter Tuning of the Model using HHO
 
 <p><a href="http://sersc.org/journals/index.php/IJAST/article/view/18587">Research Paper</a></p>
 
